@@ -14,8 +14,27 @@
 
 ## 🌟 پروژه‌های برجسته
 - [Streamer](https://github.com/Edrisss154/Streamer): پلتفرم استریم آنلاین
-
+- [Streamer](https://github.com/Edrisss154/WeatherAPI):ربات تلگرامی آب و هوا
+- [Streamer](https://github.com/Edrisss154/HackLab-):چالش آموزشی اوسپ(اسیب پذیری)
 
 📫 **راه‌های ارتباطی:** 
 edrisss154@gmail.com
 
+
+
+
+# 👋 Hi! I'm Edriss  
+
+🔭 Currently working on projects related to **Node.js** and web development.  
+🌱 Learning **React.js** and mobile app development.  
+💬 Feel free to reach out if you have any questions about programming!  
+
+## 🛠️ Skills  
+- **Languages**: JavaScript, Python, PHP  
+- **Frameworks**: Node.js, Express.js, React.js  
+- **Tools**: MySQL, MongoDB, Git, Docker  
+
+## 🌟 Highlighted Projects  
+- [Streamer](https://github.com/Edrisss154/Streamer): An online streaming platform
+-  [WeatherAPI](https://github.com/Edrisss154/WeatherAPI): A Telegram bot for weather information.  
+- [HackLab](https://github.com/Edrisss154/HackLab-): An educational challenge on vulnerabilities (OWASP-based).  
