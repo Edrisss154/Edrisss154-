@@ -5,12 +5,11 @@
 # 👋 سلام! من ادریس هستم
 
 🔭 در حال حاضر روی پروژه‌های مرتبط با Node.js و توسعه وب کار می‌کنم.  
-🌱 در حال یادگیری React.js و توسعه اپلیکیشن‌های موبایل هستم.  
 💬 خوشحال می‌شوم اگر درباره برنامه‌نویسی  سوالی دارید با من صحبت کنید!  
 
 ## 🛠️ مهارت‌ها
 - **زبان‌ها**: JavaScript, Python, PHPوJava
-- **فریم‌ورک‌ها**: Node.js, Express.js, React.js
+- **فریم‌ورک‌ها**: Node.js, Express.js
 - **ابزارها**: MySQL, MongoDB, Git, Docker
 
 ## 🌟 پروژه‌های برجسته
@@ -27,12 +26,11 @@ edrisss154@gmail.com
 # 👋 Hi! I'm Edriss  
 
 🔭 Currently working on projects related to **Node.js** and web development.  
-🌱 Learning **React.js** and mobile app development.  
 💬 Feel free to reach out if you have any questions about programming!  
 
 ## 🛠️ Skills  
 - **Languages**: JavaScript, Python, PHP  
-- **Frameworks**: Node.js, Express.js, React.js  
+- **Frameworks**: Node.js, Express.js 
 - **Tools**: MySQL, MongoDB, Git, Docker  
 
 ## 🌟 Highlighted Projects  
