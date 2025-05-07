@@ -17,6 +17,10 @@
 - [Streamer](https://github.com/Edrisss154/Streamer): پلتفرم استریم آنلاین
 - [Streamer](https://github.com/Edrisss154/WeatherAPI):ربات تلگرامی آب و هوا
 - [Streamer](https://github.com/Edrisss154/HackLab-):چالش آموزشی اوسپ(اسیب پذیری)
+- [Streamer](https://github.com/Edrisss154/my-store):فروشگاه اینترنتی (فول استک)
+- [Streamer](https://github.com/Edrisss154/automation):اتوماسیون داخلی  (فرانت)
+
+
 
 📫 **راه‌های ارتباطی:** 
 edrisss154@gmail.com
